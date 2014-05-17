@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 ssdfdfsdfil
 :wqe
+=======
+file
+sss
+>>>>>>> ef1f52b45f3b7e084a3d86d0370ab10dbfe3178e
